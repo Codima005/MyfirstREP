@@ -26,13 +26,13 @@
   width: 100%;
   max-width: 290px;
   height: 50px;
-  background: #0004d6;
+  background: yellow;
 
   color: rgb(255, 6, 6);
   font-size: 23px;
   font-weight: 700;
   cursor: pointer;
-  border: solid 1px #0004d6;
+  border: solid 1px yellow;
   border-radius: 5px;
   margin-left: auto;
   margin-right: auto;
